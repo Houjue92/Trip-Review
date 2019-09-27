@@ -11,5 +11,4 @@ The address is https://cryptic-mesa-15335.herokuapp.com/  ,feel free to drop by!
     Frontend: The frontend web pages are built with EJS engine, CSS, Bootstrap. All the template is located in Views folder.
     
 (3) Development environment:
-    This web application was originally developed in Cloud9 Cloud Services online integrated development environment. Now Cloud9 is no longer exiting(Acquisited by Amazon Web Services). Git was used for version control, v12deploed and V13 is not accessible somehow(Tring to found out the reason). But v12 is already a
-    
+    This web application was originally developed in Cloud9 Cloud Services online integrated development environment. Now Cloud9 is no longer exiting(Acquisited by Amazon Web Services). Git was used for version control, v12deploed and V13 is not accessible somehow(tring to found out the reason). But v12 is already a almost complete version, most o source code is accesible in here.
