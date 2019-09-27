@@ -1,7 +1,7 @@
 # Trip-Review
 
 I independently designed and developed this web application, then I deployed it on Heroku, the resources are storing in M-lab(Online MongoDB databases tool). It's still a "live" website, have been maintaining for almost one year up now.
-The address is https://cryptic-mesa-15335.herokuapp.com/  ,feel free to drop by! Please open V12 for reading projects source code for now.
+The address is https://cryptic-mesa-15335.herokuapp.com/  ,feel free to drop by! Please open V12 for reading project source code for now.
 
 (1) Overviw:
     This Trip Review web application was built for registered travelers to share their trip experiences. Traveler can share the trip location with google map, along with picture and reviews. There is a comment section on each trip review post, all the registered users can make comments here. Also, users can edit their submissions(trip reviews,comments) any time as long as they verified their authentication.
